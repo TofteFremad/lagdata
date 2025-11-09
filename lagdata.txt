@@ -1,0 +1,181 @@
+{
+  "J6": {
+    "navn": "J6",
+    "trening": [
+      { "dag": "Tirsdag", "tid": "17:00–18:00", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Trener", "navn": "Inger-Lise Gjesdal", "telefon": "957 31 238", "epost": "ilgjes@yahoo.no" },
+      { "verv": "Hjelpetrener", "navn": "Maria Gesila Arella", "telefon": "925 54 598", "epost": "maria@arella.no" }
+    ]
+  },
+
+  "G6": {
+    "navn": "G6",
+    "trening": [
+      { "dag": "Tirsdag", "tid": "17:00–18:00", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Trener", "navn": "Inger-Lise Gjesdal", "telefon": "957 31 238", "epost": "ilgjes@yahoo.no" },
+      { "verv": "Hjelpetrener", "navn": "Maria Gesila Arella", "telefon": "925 54 598", "epost": "maria@arella.no" }
+    ]
+  },
+
+  "J7": {
+    "navn": "J7",
+    "trening": [
+      { "dag": "Tirsdag", "tid": "17:00–18:00", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Hege Merete Borgen Andersen", "telefon": "904 05 149", "epost": "hege.merete.andersen@gmail.com" },
+      { "verv": "Trener", "navn": "Katarzyna Lamecka", "telefon": "464 17 792", "epost": "kasia.lamecka@gmail.com" },
+      { "verv": "Trener", "navn": "Martine Torp Sognebro", "telefon": "473 74 416", "epost": "mtorp93@gmail.com" },
+      { "verv": "Trener", "navn": "Stina Fransson Skavhaug", "telefon": "918 20 932", "epost": "stina_fransson@hotmail.com" }
+    ]
+  },
+
+  "G7": {
+    "navn": "G7",
+    "trening": [
+      { "dag": "Tirsdag", "tid": "17:00–18:00", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Hege Merete Borgen Andersen", "telefon": "904 05 149", "epost": "hege.merete.andersen@gmail.com" },
+      { "verv": "Trener", "navn": "Katarzyna Lamecka", "telefon": "464 17 792", "epost": "kasia.lamecka@gmail.com" },
+      { "verv": "Trener", "navn": "Martine Torp Sognebro", "telefon": "473 74 416", "epost": "mtorp93@gmail.com" },
+      { "verv": "Trener", "navn": "Stina Fransson Skavhaug", "telefon": "918 20 932", "epost": "stina_fransson@hotmail.com" }
+    ]
+  },
+
+  "J8": {
+    "navn": "J8",
+    "trening": [
+      { "dag": "Mandag", "tid": "16:30–18:00", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Rebecca Theodorsen", "telefon": "400 74 537", "epost": "rfagerheim@gmail.com" },
+      { "verv": "Trener", "navn": "Christian Pettersen Norling", "telefon": "971 78 063", "epost": "cp.norling@hotmail.com" },
+      { "verv": "Trener", "navn": "Marianne Sværen", "telefon": "952 19 074", "epost": "m_jane84@hotmail.com" }
+    ]
+  },
+
+  "J10": {
+    "navn": "J10",
+    "trening": [
+      { "dag": "Tirsdag", "tid": "18:00–19:30", "sted": "Toftehallen" },
+      { "dag": "Torsdag", "tid": "17:00–18:30", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Tony André Dahl", "telefon": "954 09 061", "epost": "tony@fremeiendomsmegling.no" },
+      { "verv": "Trener", "navn": "Silje Kaksrud", "telefon": "971 00 607", "epost": "silje_kaksrud@live.no" },
+      { "verv": "Trener", "navn": "Zilvinas Bakanauskas", "telefon": "463 94 008", "epost": "zilvinas.bakanauskas@yahoo.com" }
+    ]
+  },
+
+  "J11": {
+    "navn": "J11",
+    "trening": [
+      { "dag": "Mandag", "tid": "18:00–19:30", "sted": "Toftehallen" },
+      { "dag": "Onsdag", "tid": "17:30–18:30", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Terje Kvam", "telefon": "470 39 613", "epost": "tanngrisne@live.no" },
+      { "verv": "Trener", "navn": "Heidi Renate Lona", "telefon": "986 89 135", "epost": "heidi.r.lona.1986@gmail.com" }
+    ]
+  },
+
+  "J12": {
+    "navn": "J12",
+    "trening": [
+      { "dag": "Mandag", "tid": "18:00–19:30", "sted": "Toftehallen" },
+      { "dag": "Onsdag", "tid": "17:30–18:30", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Hanne Torgersen", "telefon": "480 42 022", "epost": "hannetorgersen@gmail.com" },
+      { "verv": "Trener", "navn": "Ann Cathrin Maijala", "telefon": "910 03 997", "epost": "ann.cathrin.maijala@hotmail.com" },
+      { "verv": "Trener", "navn": "Erling Rødahl", "telefon": "400 82 339", "epost": "erlingr@hotmail.no" }
+    ]
+  },
+
+  "J13": {
+    "navn": "J13",
+    "trening": [
+      { "dag": "Mandag", "tid": "19:00–20:30", "sted": "Toftehallen" },
+      { "dag": "Onsdag", "tid": "18:30–20:00", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Øyvind Heen Nilsen", "telefon": "920 94 248", "epost": "oyvind.heen.nilsen@gmail.com" },
+      { "verv": "Hovedtrener", "navn": "Arild Furuseth", "telefon": "926 23 197", "epost": "arildfuruseth@hotmail.com" },
+      { "verv": "Trener", "navn": "Øyvind Røed Jensen", "telefon": "481 59 442", "epost": "oyvind@rodbysetra.no" },
+      { "verv": "Trener", "navn": "Kine Sørli", "telefon": "412 50 730", "epost": "kinemarlin@gmail.com" }
+    ]
+  },
+
+  "J14": {
+    "navn": "J14",
+    "trening": [
+      { "dag": "Mandag", "tid": "19:00–20:30", "sted": "Toftehallen" },
+      { "dag": "Onsdag", "tid": "18:30–20:00", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Øyvind Heen Nilsen", "telefon": "920 94 248", "epost": "oyvind.heen.nilsen@gmail.com" },
+      { "verv": "Hovedtrener", "navn": "Arild Furuseth", "telefon": "926 23 197", "epost": "arildfuruseth@hotmail.com" },
+      { "verv": "Trener", "navn": "Øyvind Røed Jensen", "telefon": "481 59 442", "epost": "oyvind@rodbysetra.no" },
+      { "verv": "Trener", "navn": "Kine Sørli", "telefon": "412 50 730", "epost": "kinemarlin@gmail.com" }
+    ]
+  },
+
+  "G10": {
+    "navn": "G10",
+    "trening": [
+      { "dag": "Tirsdag", "tid": "18:00–19:30", "sted": "Toftehallen" },
+      { "dag": "Torsdag", "tid": "17:00–18:30", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Maria Eek", "telefon": "932 60 876", "epost": "maria_eek@hotmail.com" },
+      { "verv": "Trener", "navn": "André Veel", "telefon": "948 40 291", "epost": "andreveel@gmail.com" }
+    ]
+  },
+
+  "G12": {
+    "navn": "G12",
+    "trening": [
+      { "dag": "Mandag", "tid": "16:30–18:00", "sted": "Toftehallen" },
+      { "dag": "Onsdag", "tid": "16:00–17:30", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Inger-Lise Gjesdal", "telefon": "957 31 238", "epost": "ilgjes@yahoo.no" },
+      { "verv": "Lagleder", "navn": "Tonje Sværen", "telefon": "456 11 160", "epost": "tonje.svaeren@gmail.com" },
+      { "verv": "Hovedtrener", "navn": "Therese Gulbrandsen", "telefon": "469 65 084", "epost": "therese.bjerkelund@hotmail.com" },
+      { "verv": "Trener", "navn": "Stine Gudbrandsen", "telefon": "930 22 847", "epost": "stinegudbrandsen@msn.com" }
+    ]
+  },
+
+  "G14": {
+    "navn": "G14",
+    "trening": [
+      { "dag": "Tirsdag", "tid": "19:30–21:00", "sted": "Toftehallen" },
+      { "dag": "Onsdag", "tid": "19:30–21:00", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Heidi Akselsen", "telefon": "916 38 238", "epost": "heidi@aksvet.no" },
+      { "verv": "Hovedtrener", "navn": "Espen Evensen", "telefon": "410 86 666", "epost": "eevens1@askerskolen.no" },
+      { "verv": "Trener", "navn": "Aiva Flenderyte", "telefon": "968 64 631", "epost": "mariusern011@gmail.com" },
+      { "verv": "Trener", "navn": "Therese Katrin Evensen", "telefon": "400 08 359", "epost": "ts@akademiet.no" }
+    ]
+  },
+
+  "G16": {
+    "navn": "G16",
+    "trening": [
+      { "dag": "Tirsdag", "tid": "19:30–21:00", "sted": "Toftehallen" },
+      { "dag": "Onsdag", "tid": "19:30–21:00", "sted": "Toftehallen" }
+    ],
+    "kontakt": [
+      { "verv": "Lagleder", "navn": "Heidi Akselsen", "telefon": "916 38 238", "epost": "heidi@aksvet.no" },
+      { "verv": "Hovedtrener", "navn": "Espen Evensen", "telefon": "410 86 666", "epost": "eevens1@askerskolen.no" },
+      { "verv": "Trener", "navn": "Aiva Flenderyte", "telefon": "968 64 631", "epost": "mariusern011@gmail.com" },
+      { "verv": "Trener", "navn": "Therese Katrin Evensen", "telefon": "400 08 359", "epost": "ts@akademiet.no" }
+    ]
+  }
+}
