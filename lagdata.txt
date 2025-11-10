@@ -1,6 +1,6 @@
 {
   "J6": {
-    "navn": "J6",
+    "navn": "Jenter 6",
     "trening": [
       { "dag": "Tirsdag", "tid": "17:00–18:00", "sted": "Toftehallen" }
     ],
@@ -11,7 +11,7 @@
   },
 
   "G6": {
-    "navn": "G6",
+    "navn": "Gutter 6",
     "trening": [
       { "dag": "Tirsdag", "tid": "17:00–18:00", "sted": "Toftehallen" }
     ],
@@ -22,7 +22,7 @@
   },
 
   "J7": {
-    "navn": "J7",
+    "navn": "Jenter 7",
     "trening": [
       { "dag": "Tirsdag", "tid": "17:00–18:00", "sted": "Toftehallen" }
     ],
@@ -35,7 +35,7 @@
   },
 
   "G7": {
-    "navn": "G7",
+    "navn": "Gutter 7",
     "trening": [
       { "dag": "Tirsdag", "tid": "17:00–18:00", "sted": "Toftehallen" }
     ],
@@ -48,7 +48,7 @@
   },
 
   "J8": {
-    "navn": "J8",
+    "navn": "Jenter 8",
     "trening": [
       { "dag": "Mandag", "tid": "16:30–18:00", "sted": "Toftehallen" }
     ],
@@ -60,7 +60,7 @@
   },
 
   "J10": {
-    "navn": "J10",
+    "navn": "Jenter 10",
     "trening": [
       { "dag": "Tirsdag", "tid": "18:00–19:30", "sted": "Toftehallen" },
       { "dag": "Torsdag", "tid": "17:00–18:30", "sted": "Toftehallen" }
@@ -73,7 +73,7 @@
   },
 
   "J11": {
-    "navn": "J11",
+    "navn": "Jenter 11",
     "trening": [
       { "dag": "Mandag", "tid": "18:00–19:30", "sted": "Toftehallen" },
       { "dag": "Onsdag", "tid": "17:30–18:30", "sted": "Toftehallen" }
@@ -85,7 +85,7 @@
   },
 
   "J12": {
-    "navn": "J12",
+    "navn": "Jenter 12",
     "trening": [
       { "dag": "Mandag", "tid": "18:00–19:30", "sted": "Toftehallen" },
       { "dag": "Onsdag", "tid": "17:30–18:30", "sted": "Toftehallen" }
@@ -98,7 +98,7 @@
   },
 
   "J13": {
-    "navn": "J13",
+    "navn": "Jenter 13",
     "trening": [
       { "dag": "Mandag", "tid": "19:00–20:30", "sted": "Toftehallen" },
       { "dag": "Onsdag", "tid": "18:30–20:00", "sted": "Toftehallen" }
@@ -112,7 +112,7 @@
   },
 
   "J14": {
-    "navn": "J14",
+    "navn": "Jenter 14",
     "trening": [
       { "dag": "Mandag", "tid": "19:00–20:30", "sted": "Toftehallen" },
       { "dag": "Onsdag", "tid": "18:30–20:00", "sted": "Toftehallen" }
@@ -126,7 +126,7 @@
   },
 
   "G10": {
-    "navn": "G10",
+    "navn": "Gutter 10",
     "trening": [
       { "dag": "Tirsdag", "tid": "18:00–19:30", "sted": "Toftehallen" },
       { "dag": "Torsdag", "tid": "17:00–18:30", "sted": "Toftehallen" }
@@ -139,7 +139,7 @@
   },
 
   "G12": {
-    "navn": "G12",
+    "navn": "Gutter 12",
     "trening": [
       { "dag": "Mandag", "tid": "16:30–18:00", "sted": "Toftehallen" },
       { "dag": "Onsdag", "tid": "16:00–17:30", "sted": "Toftehallen" }
@@ -153,7 +153,7 @@
   },
 
   "G14": {
-    "navn": "G14",
+    "navn": "Gutter 14",
     "trening": [
       { "dag": "Tirsdag", "tid": "19:30–21:00", "sted": "Toftehallen" },
       { "dag": "Onsdag", "tid": "19:30–21:00", "sted": "Toftehallen" }
@@ -167,7 +167,7 @@
   },
 
   "G16": {
-    "navn": "G16",
+    "navn": "Gutter 16",
     "trening": [
       { "dag": "Tirsdag", "tid": "19:30–21:00", "sted": "Toftehallen" },
       { "dag": "Onsdag", "tid": "19:30–21:00", "sted": "Toftehallen" }
@@ -180,6 +180,7 @@
     ]
   }
 }
+
 
 
 
