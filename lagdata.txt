@@ -133,7 +133,7 @@
     ],
     "kontakt": [
       { "verv": "Lagleder", "navn": "Maria Eek", "telefon": "932 60 876", "epost": "maria_eek@hotmail.com" },
-      { "verv": "Trener", "navn": "André Veel", "telefon": "948 40 291", "epost": "andreveel@gmail.com" }
+      { "verv": "Trener", "navn": "André Veel", "telefon": "948 40 291", "epost": "andreveel@gmail.com" },
       { "verv": "Trener", "navn": "Ronny Olsen", "telefon": "450 83 678" }
     ]
   },
@@ -180,6 +180,7 @@
     ]
   }
 }
+
 
 
 
