@@ -69,7 +69,6 @@
       { "verv": "Lagleder", "navn": "Tony André Dahl", "telefon": "954 09 061", "epost": "tony@fremeiendomsmegling.no" },
       { "verv": "Trener", "navn": "Silje Kaksrud", "telefon": "971 00 607", "epost": "silje_kaksrud@live.no" },
       { "verv": "Trener", "navn": "Žilvinas Bakanauskas", "telefon": "463 94 008", "epost": "zilvinas.bakanauskas@yahoo.com" }
-      { "verv": "Trener", "navn": "Test testesen", "telefon": "123 45 678", "epost": "epost.epostsen@booo.com" }
     ]
   },
 
@@ -135,6 +134,7 @@
     "kontakt": [
       { "verv": "Lagleder", "navn": "Maria Eek", "telefon": "932 60 876", "epost": "maria_eek@hotmail.com" },
       { "verv": "Trener", "navn": "André Veel", "telefon": "948 40 291", "epost": "andreveel@gmail.com" }
+      { "verv": "Trener", "navn": "Ronny Olsen", "telefon": "450 83 678" }
     ]
   },
 
@@ -180,5 +180,6 @@
     ]
   }
 }
+
 
 
